@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CA6F748AA74E7ADC65AA5E10C7A321B0",
+  "keywordClasses": [
+    {
+      "name": "actions.FactorialCalculator",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

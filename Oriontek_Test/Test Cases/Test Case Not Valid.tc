@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case Not Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aae944a0-0499-4df5-8146-6306b66a1770</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79215585-f082-40ea-9086-736fa5e1dc1a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66341dc4-daf5-4b21-bd61-f8bcbce5af3e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44ec3c7c-db72-4d4f-903f-811bd29aaca0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e1c3ad8-b8e2-4836-8c80-d988147194b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'//input[@id=\'number\']'</defaultValue>
+      <description></description>
+      <id>79215585-f082-40ea-9086-736fa5e1dc1a</id>
+      <masked>false</masked>
+      <name>xpathForTextElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'//button[@id=\'getFactorial\']'</defaultValue>
+      <description></description>
+      <id>66341dc4-daf5-4b21-bd61-f8bcbce5af3e</id>
+      <masked>false</masked>
+      <name>xpathForbutton</name>
+   </variable>
+   <variable>
+      <defaultValue>'hola'</defaultValue>
+      <description></description>
+      <id>44ec3c7c-db72-4d4f-903f-811bd29aaca0</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+   <variable>
+      <defaultValue>'not valid'</defaultValue>
+      <description></description>
+      <id>8e1c3ad8-b8e2-4836-8c80-d988147194b2</id>
+      <masked>false</masked>
+      <name>TypeTestCase</name>
+   </variable>
+</TestCaseEntity>
